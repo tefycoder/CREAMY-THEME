@@ -1,0 +1,95 @@
+body{
+	font-family: "Open Sans";
+	color: beige!important;
+	background-color: beige !important;
+	background-size: cover ;
+}
+
+nav .navbar-header{
+	border-color: #DB333E !important;
+	background-color:#DB333E !important;
+}
+
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: -16px !important;
+    margin-left: -15px !important;
+}
+
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border-color: #DB333E !important;
+	background-color:#DB333E !important;
+}
+
+.navbar-default .navbar-brand {
+	color: beige!important;
+	font-family: Merriweather;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: beige!important;
+}
+
+header{
+	background: url(../img/creamy.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 415px;
+	text-align: center;
+	color: beige ;
+	margin-top: -20px;
+}
+
+.transparencia {
+	background:rgba(0,0,0,0.6);
+	background-size: cover;
+	height: 415px;
+}
+
+
+.container_home{
+	text-align: center;
+	padding-top: 160px;
+}
+
+h1{
+	font-family: "Merriweather"!important;
+}
+	
+.seccion1{
+	padding-top: 60px;
+	color:#DB333E;
+	text-align: center;
+}
+
+h3 {
+	font-family: "Merriweather"!important;
+}
+
+.img-responsive{
+	margin: 0 auto;
+}
+
+.seccion2{
+	background:#DB333E !important;
+	color: beige;
+	text-align: center;
+	padding: 10px;
+	height: 250px;
+}
+
+.seccion3{
+	color:#DB333E;
+	padding-top: 50px;
+	text-align: center;
+	height: 350px;
+}
+
+footer{
+	background:#DB333E;
+	max-height:70px;
+	padding-top:20px;
+	color: beige;
+	font-family: "Merriweather";
+}
+
